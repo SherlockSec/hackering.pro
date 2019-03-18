@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Hackering Pro Publications
 permalink: /about
 comments: true
 ---
