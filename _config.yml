@@ -1,14 +1,14 @@
 # Site
 name: "Hackering Pro Publications"
 title: "hackering.pro"
-description: ""
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+description: "A Junior Publication for Cyber Security and InfoSec."
+meta_description: "A Junior Publication for Cyber Security and InfoSec."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+baseurl: ''
+google_analytics: 'UA-136538341-1'
+disqus: 'hackeringpro'
+mailchimp-list: 'https://sherlock-security.us20.list-manage.com/subscribe/post?u=d19545474f9d159259f439c8e&amp;id=c888c445e5'
 include: ["_pages"]
 permalink: /:title/
 
@@ -17,7 +17,6 @@ authors:
   dan:
     name: Dan
     display_name: "_Dan_ (SherlockSec)"
-    gravatar: 0
     email: dan@sherlock-security.com
     web: https://sherlock-security.com
     twitter: https://twitter.com/sherlocksec
